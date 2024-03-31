@@ -19,3 +19,9 @@ Creating relationships:
 - Observe data-ink ratio: Use visuals effectively; prioritize data over unnecessary elements to enhance clarity.
 
 ![FinancialOverview](https://github.com/ochengco-paolo/FinancialOverview/assets/140794262/3f4325b3-838c-4f31-8d00-acd940801662)
+
+## Insights
+- Total Sales from 2013 to 2014 shows $127.93.
+- United States ($1.07M) and Canada ($0.90M) provides high profits under the Small Business segment.
+- Negative Profit on the Enterprise segment in all regions.
+- In the Product section, Paseo achieved gross sales of $35.6M with profits of $4.8M, while VTT recorded gross sales of $22M with profits of $3.0M.

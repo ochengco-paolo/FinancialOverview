@@ -24,4 +24,5 @@ Creating relationships:
 - Total Sales from 2013 to 2014 shows $127.93.
 - United States ($1.07M) and Canada ($0.90M) provides high profits under the Small Business segment.
 - Negative Profit on the Enterprise segment in all regions.
-- December 2024 has the highest sales in 2013 - 2014 period.
+- December 2024 has the highest sales amounting 2.03M in 2013 - 2014 period.
+

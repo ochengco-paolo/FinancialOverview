@@ -1,6 +1,9 @@
 # FinancialOverview
 
+
 ## Data Preparation
+The Financial Dataset covers financial data from September 2013 to December 2014.
+
 Data Profiling: 
 - Analyzing the dataset's characteristics and structure involves assessing the quality of the data and examining the distribution of its columns. This process helps ensure that the data is accurate, complete, and appropriately organized for analysis.
 - Follow the ETL process, transforming data before loading into Power BI. This includes cleaning data by checking data types, trimming, standardization, etc.
